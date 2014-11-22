@@ -15,6 +15,8 @@ featured: true
 
 Well, I guess it's quite obvious that I really enjoy working with Jekyll — with good reasons — so let me just briefly suggest some of the benefits of using a static site generator in favor of a heavy dynamic, database driven content management system.
 
+##Video Lecture
+
 - **Speed**: Static HTML pages are small, lightweight and perform blazingly fast. You’ll notice the difference.
 <figure>
 <div align = "center">

@@ -26,6 +26,11 @@ callback([
   } ,
 
   {
+    "text": "Accelaration",
+    "href": "http://127.0.0.1:4000/webdevelopment/Accelaration"
+  } ,
+
+  {
     "text": "Why Jekyll?",
     "href": "http://127.0.0.1:4000/webdevelopment/why-jekyll"
   } 

@@ -9,6 +9,14 @@
 		} ,
 	
 		{
+		  "title"      : "Accelaration",
+		  "category"   : "webdevelopment",
+		  "url"        : "http://127.0.0.1:4000/webdevelopment/Accelaration",
+		  "date"       : "2014-07-23 00:00:00 +0500",
+		  "shortdate"  : "July 23, 2014"
+		} ,
+	
+		{
 		  "title"      : "Introducing Notepad",
 		  "category"   : "personal",
 		  "url"        : "http://127.0.0.1:4000/personal/introducing-notepad",
