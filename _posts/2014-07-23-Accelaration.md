@@ -34,7 +34,7 @@ Play the video, it's really nice and informative.
 Sometimes an accelerating object will change its velocity by the same amount each second. As mentioned in the previous paragraph, the data table above show an object changing its velocity by 10 m/s in each consecutive second. This is referred to as a constant acceleration since the velocity is changing by a constant amount each second. An object with a constant acceleration should not be confused with an object with a constant velocity. Don't be fooled! If an object is changing its velocity -whether by a constant amount or a varying amount - then it is an accelerating object. And an object with a constant velocity is not accelerating. The data tables below depict motions of objects with a constant acceleration and a changing acceleration. Note that each object has a changing velocity.
 
 <figure class = "half">
-<img src="http://www.physicsclassroom.com/Class/1DKin/U1L1e12.gif"></img>
+<img src="http://www.physicsclassroom.com/mmedia/vectors/hlp.gif"></img>
 <img src="http://t3.gstatic.com/images?q=tbn:ANd9GcT5t5B5Fzbsrq0S7hNUbZX6HHS2U2MvfIb3nNWZwcC9OfBR8Aiv"></img></p>
 </figure>
 <br>

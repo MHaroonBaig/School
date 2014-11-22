@@ -9,7 +9,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://127.0.0.1:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://127.0.0.1:4000/" />
-<updated>2014-11-22T20:20:34+05:00</updated>
+<updated>2014-11-22T23:44:13+05:00</updated>
 <id>http://127.0.0.1:4000/</id>
 <author>
   <name>M. Haroon Baig</name>
@@ -106,8 +106,7 @@
 
 &lt;p&gt;Viral entry is the next step, wherein a virus penetrates the host cell wall. In the case of plant cells, the cell outer membrane is composed of cellulose, such that cell wall trauma must be usually precedent; however, certain plant viruses (for example, tobacco mosaic virus) can pass from cell to cell through plasmodesmata, or pore structures. Also, bacteria have significantly strong cell walls. Some viruses have evolved mechanisms that inject their DNA or RNA into a bacterium, with the viral capsid remaining outside. Uncoating is the step in which viral enzymes degrade the virus capsid; sometimes host enzymes also play a role in this dissolution, that then exposes the viral genome to the interior of the host cell’s chemical factory.
 &lt;figure class=&quot;one&quot;&gt;
-&lt;img src=&quot;http://t2.gstatic.com/images?q=tbn:ANd9GcTCEb3z5LXNRzx2cYThvIQyPqzf4HXwfqKANa4wz0iAlSPzzbG4&quot; /&gt;
-&lt;img src=&quot;http://img.sparknotes.com/figures/2/285caff64361a769a0850014b87c228c/replication.gif&quot; /&gt;
+&lt;img src=&quot;http://www.timeenoughforlove.org/images/anim-1.gif&quot; /&gt;
 &lt;/figure&gt;
 &lt;br /&gt;&lt;/p&gt;
 
@@ -135,7 +134,7 @@
   
     &lt;p&gt;Velocity is a vector quantity that refers to “the rate at which an object changes its position.” Imagine a person moving rapidly - one step forward and one step back - always returning to the original starting position. While this might result in a frenzy of activity, it would result in a zero velocity. Because the person always returns to the original position, the motion would never result in a change in position. Since velocity is defined as the rate at which the position changes, this motion results in zero velocity. If a person in motion wishes to maximize their velocity, then that person must make every effort to maximize the amount that they are displaced from their original position. Every step must go into moving that person further from where he or she started. For certain, the person should never change directions and begin to return to the starting position.&lt;/p&gt;
 &lt;figure&gt;
-&lt;img src=&quot;http://www.physicsclassroom.com/Class/1DKin/U1L1d6.gif&quot; /&gt;
+&lt;img src=&quot;http://www.regentsprep.org/regents/physics/phys01/velocity/velobug.gif&quot; /&gt;
 &lt;/figure&gt;
 &lt;p&gt;Velocity is a vector quantity. As such, velocity is direction aware. When evaluating the velocity of an object, one must keep track of direction. It would not be enough to say that an object has a velocity of 55 mi/hr. One must include direction information in order to fully describe the velocity of the object. For instance, you must describe an object’s velocity as being 55 mi/hr, east. This is one of the essential differences between speed and velocity. Speed is a scalar quantity and does not keep track of direction; velocity is a vector quantity and is direction aware.
 &lt;br /&gt;&lt;/p&gt;
@@ -192,8 +191,8 @@
   
     &lt;p&gt;Speed is a scalar quantity that refers to “how fast an object is moving.” Speed can be thought of as the rate at which an object covers distance. A fast-moving object has a high speed and covers a relatively large distance in a short amount of time. Contrast this to a slow-moving object that has a low speed; it covers a relatively small amount of distance in the same amount of time. An object with no movement at all has a zero speed.&lt;/p&gt;
 &lt;figure&gt;
-&lt;img src=&quot;http://physics-formulas.com/speed_is_a_scalar.gif&quot; /&gt;
-&lt;img src=&quot;http://www.skateboardhere.com/images/skateboarding-physics.jpg&quot; /&gt;
+&lt;img src=&quot;https://www.softintegration.com/docs/ch/qanimate/examples/car/car_gifs.gif&quot; /&gt;
+&lt;img src=&quot;http://media.giphy.com/media/S7rcze8TrXof6/giphy.gif&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -209,21 +208,24 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;instantaneous-speed&quot;&gt;Instantaneous speed&lt;/h2&gt;
-&lt;p&gt;By looking at a speedometer, one can read the speed of a car at any instant, or its instantaneous speed.[3] A car travelling at 50 km/h generally goes for less than one hour at a constant speed, but if it did go at that speed for a full hour, it would travel 50 km. If the vehicle continued at that speed for half an hour, it would cover half that distance (25 km). If it continued for only one minute, it would cover about 833 m.&lt;/p&gt;
+&lt;p&gt;By looking at a speedometer, one can read the speed of a car at any instant, or its instantaneous speed.[3] A car travelling at 50 km/h generally goes for less than one hour at a constant speed, but if it did go at that speed for a full hour, it would travel 50 km. If the vehicle continued at that speed for half an hour, it would cover half that distance (25 km). If it continued for only one minute, it would cover about 833 m.
+&lt;figure class=&quot;one&quot;&gt;
+&lt;img src=&quot;http://itg1.meteor.wisc.edu/wxwise/museum/a10/car_road.gif&quot; /&gt;
+&lt;/figure&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;average-speed&quot;&gt;Average speed&lt;/h2&gt;
 &lt;p&gt;Different from instantaneous speed, average speed is defined as the total distance covered over the time interval. For example, if a distance of 80 kilometres is driven in 1 hour, the average speed is 80 kilometres per hour. Likewise, if 320 kilometres are travelled in 4 hours, the average speed is also 80 kilometres per hour. When a distance in kilometres (km) is divided by a time in hours (h), the result is in kilometres per hour (km/h). Average speed does not describe the speed variations that may have taken place during shorter time intervals (as it is the entire distance covered divided by the total time of travel), and so average speed is often quite different from a value of instantaneous speed.[3] If the average speed and the time of travel are known, the distance travelled can be calculated by rearranging the definition to d = \boldsymbol{\bar{v}}t\,. Using this equation for an average speed of 80 kilometres per hour on a 4-hour trip, the distance covered is found to be 320 kilometres. Expressed in graphical language, the slope of a tangent line at any point of a distance-time graph is the instantaneous speed at this point, while the slope of a chord line of the same graph is the average speed during the time interval covered by the chord.&lt;/p&gt;
 
-&lt;figure class=&quot;&quot;&gt;
-&lt;img src=&quot;http://t1.gstatic.com/images?q=tbn:ANd9GcQ8idZmw292ekBf1xW-2szshaYzWem76OBgVuYvzXXP7iZbV7w-&quot; /&gt;
+&lt;figure class=&quot;one&quot;&gt;
+&lt;img src=&quot;http://gbhsweb.glenbrook225.org/gbs/science/phys/mmedia/kinema/trip.gif&quot; /&gt;
 &lt;/figure&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;tangential-speed&quot;&gt;Tangential speed&lt;/h2&gt;
 &lt;p&gt;Linear speed is the distance traveled per unit of time, while tangential speed (or tangential velocity) is the linear speed of something moving along a circular path.[4] A point on the outside edge of a merry-go-round or turntable travels a greater distance in one complete rotation than a point nearer the center. Travelling a greater distance in the same time means a greater speed, and so linear speed is greater on the outer edge of a rotating object than it is closer to the axis. This speed along a circular path is known as tangential speed because the direction of motion is tangent to the circumference of the circle. For circular motion, the terms linear speed and tangential speed are used interchangeably, and both use units of m/s, km/h, and others.&lt;/p&gt;
 
-&lt;figure&gt;
-&lt;img src=&quot;http://t2.gstatic.com/images?q=tbn:ANd9GcQRl9gl7wTUXtTsoJ2yqu6tGTZPzRwYu-JCjLJLMQtAdHutCygk&quot; /&gt;
+&lt;figure class=&quot;one&quot;&gt;
+&lt;img src=&quot;http://easterninstruments.com/pics/Video-6-3.gif&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Rotational speed (or angular speed) involves the number of revolutions per unit of time. All parts of a rigid merry-go-round or turntable turn about the axis of rotation in the same amount of time. Thus, all parts share the same rate of rotation, or the same number of rotations or revolutions per unit of time. It is common to express rotational rates in revolutions per minute (RPM) or in terms of the number of “radians” turned in a unit of time. There are little more than 6 radians in a full rotation (2Ï€ radians exactly). When a direction is assigned to rotational speed, it is known as rotational velocity or angular velocity. Rotational velocity is a vector whose magnitude is the rotational speed. Tangential speed and rotational speed are related: the greater the RPMs, the larger the speed in metres per second. Tangential speed is directly proportional to rotational speed at any fixed distance from the axis of rotation.[4] However, tangential speed, unlike rotational speed, depends on radial distance (the distance from the axis). For a platform rotating with a fixed rotational speed, the tangential speed in the centre is zero. Towards the edge of the platform the tangential speed increases proportional to the distance from the axis.[5] In equation form: v \propto !\, r \omega\,, where v is tangential speed and Ï‰ (Greek letter omega) is rotational speed. One moves faster if the rate of rotation increases (a larger value for Ï‰), and one also moves faster if movement farther from the axis occurs (a larger value for r). Move twice as far from the rotational axis at the centre and you move twice as fast. Move out three times as far and you have three times as much tangential speed. In any kind of rotating system, tangential speed depends on how far you are from the axis of rotation. When proper units are used for tangential speed v, rotational speed Ï‰, and radial distance r, the direct proportion of v to both r and Ï‰ becomes the exact equation v = r\omega\,. Thus, tangential speed will be directly proportional to r when all parts of a system simultaneously have the same Ï‰, as for a wheel, disk, or rigid wand. (The direct proportionality of v to r is not valid for planets, because planets have different rotational speeds).&lt;/p&gt;
@@ -321,7 +323,7 @@
     &lt;p&gt;Bacteria is a plural word. The singular for this word is “bacterium” (bacter = rod, staff). Bacteria are prokaryotes (Kingdom Monera), which means that they have no true nucleus. They do have one chromosome of double-stranded DNA in a ring. They reproduce by binary fission. Most bacteria lack or have very few internal membranes, which means that they don’t have some kinds of organelles (like mitochondria or chloroplasts). Most bacteria are benign (benign = good, friendly, kind) or beneficial, and only a few are “bad guys” or pathogens.&lt;/p&gt;
 
 &lt;figure&gt;
-&lt;img src=&quot;http://t3.gstatic.com/images?q=tbn:ANd9GcSkUZhdNeg3ujvhVPYNNvwYq4ISEDywcZmH4a59BfAnzGz_DgIc5g&quot; /&gt;
+&lt;img src=&quot;http://ludumdare.com/compo/wp-content/uploads/2012/12/test.gif&quot; /&gt;
 &lt;/figure&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -335,16 +337,18 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;shapes&quot;&gt;Shapes&lt;/h2&gt;
-&lt;p&gt;Bacterial Shapes Most bacteria are one of three shapes (although there are a few other possibilities): coccus (sing.), cocci (pl.): are spherical (coccus = a berry), bacillus (sing.), bacilli (pl.): are rod-shaped (bacill(um) = a little stick), and spirillum (sing.), spirilla (pl.): are spiral (spiro = spiral, coil).&lt;/p&gt;
-&lt;figure&gt;
-&lt;img src=&quot;http://biology.clc.uc.edu/graphics/bio106/bacteria.jpg&quot; /&gt;
-&lt;/figure&gt;
+&lt;p&gt;Bacterial Shapes Most bacteria are one of three shapes (although there are a few other possibilities): coccus (sing.), cocci (pl.): are spherical (coccus = a berry), bacillus (sing.), bacilli (pl.): are rod-shaped (bacill(um) = a little stick), and spirillum (sing.), spirilla (pl.): are spiral (spiro = spiral, coil).
+&lt;figure class=&quot;one&quot;&gt;
+&lt;img src=&quot;http://cdn1.askiitians.com/Images/2014828-17824190-7538-bacteria-shapes.gif&quot; /&gt;
+&lt;img src=&quot;http://cdn1.askiitians.com/Images/2014829-113923893-2167-bacteria_gif.gif&quot; /&gt;
+&lt;/figure&gt;&lt;/p&gt;
+
 &lt;p&gt;While many bacteria live singly, others are found in aggregates or clusters. These aggregates are named based on the arrangement of the bacterial cells of which they are composed. Using cocci as an example: diplococcus: like Streptococcus pneumoniae (pneumonia) are in sets of two (diplo = double, two; pneumo = lungs), PHOTO streptococcus: are in chains (strepto = bent, twisted, pliable), and staphylococcus: are in clusters (staphylo = a bunch of grapes).&lt;/p&gt;
 
 &lt;h2 id=&quot;bacterial-cell-walls-and-gram-stains&quot;&gt;Bacterial Cell Walls And Gram Stains&lt;/h2&gt;
 &lt;p&gt;Most bacteria secrete a covering for themselves which we call a cell wall, However, bacterial cell walls are a totally different thing than the cell walls we talk about plants having. Bacterial cell walls do NOT contain cellulose like plant cell walls do. Bacterial cell walls are made mostly of a chemical called peptidoglycan (made of polypeptides bonded to modified sugars), but the amount and location of the peptidoglycan are different in the two possible types of cell walls, depending on the species of bacterium. Some antibiotics, like penicillin, inhibit the formation of the chemical cross linkages needed to make peptidoglycan. These antibiotics donâ€™t outright kill the bacteria, but just stop them from being able to make more cell wall so they can grow. Thatâ€™s why antibiotics must typically be taken for ten days until the bacteria, unable to grow, die of â€œold ageâ€. If a person stops taking the antibiotic sooner, any living bacteria could start making peptidoglycan, grow, and reproduce.&lt;/p&gt;
 &lt;figure&gt;
-&lt;img src=&quot;http://biology.clc.uc.edu/graphics/bio106/gram.jpg&quot; /&gt;
+&lt;img src=&quot;http://besthealth.bmj.com/x/images/bh/en-gb/antibiotic3_default.gif&quot; /&gt;
 &lt;/figure&gt;
 &lt;p&gt;However, because one of the two possible types of bacterial cell walls has more peptidoglycan than the other, antibiotics like penicillin are more effective against bacteria with that type of cell wall and less effective against bacteria with less peptidoglycan in their cell walls. Thus it is important, before beginning antibiotic treatment, to determine with which of the two types of bacteria one is dealing.&lt;/p&gt;
 
@@ -396,7 +400,7 @@
 &lt;p&gt;Sometimes an accelerating object will change its velocity by the same amount each second. As mentioned in the previous paragraph, the data table above show an object changing its velocity by 10 m/s in each consecutive second. This is referred to as a constant acceleration since the velocity is changing by a constant amount each second. An object with a constant acceleration should not be confused with an object with a constant velocity. Don’t be fooled! If an object is changing its velocity -whether by a constant amount or a varying amount - then it is an accelerating object. And an object with a constant velocity is not accelerating. The data tables below depict motions of objects with a constant acceleration and a changing acceleration. Note that each object has a changing velocity.&lt;/p&gt;
 
 &lt;figure class=&quot;half&quot;&gt;
-&lt;img src=&quot;http://www.physicsclassroom.com/Class/1DKin/U1L1e12.gif&quot; /&gt;
+&lt;img src=&quot;http://www.physicsclassroom.com/mmedia/vectors/hlp.gif&quot; /&gt;
 &lt;img src=&quot;http://t3.gstatic.com/images?q=tbn:ANd9GcT5t5B5Fzbsrq0S7hNUbZX6HHS2U2MvfIb3nNWZwcC9OfBR8Aiv&quot; /&gt;
 &lt;/figure&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
