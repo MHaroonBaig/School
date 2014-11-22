@@ -49,6 +49,10 @@
         <loc>http://127.0.0.1:4000/page2/index.html</loc>
     </url>
     
+    <url>
+        <loc>http://127.0.0.1:4000/page3/index.html</loc>
+    </url>
+    
 
     
     <url>
@@ -56,7 +60,23 @@
     </url>
     
     <url>
+        <loc>http://127.0.0.1:4000/webdevelopment/Virus</loc>
+    </url>
+    
+    <url>
+        <loc>http://127.0.0.1:4000/webdevelopment/Velocity</loc>
+    </url>
+    
+    <url>
         <loc>http://127.0.0.1:4000/webdevelopment/Speed</loc>
+    </url>
+    
+    <url>
+        <loc>http://127.0.0.1:4000/webdevelopment/Cells</loc>
+    </url>
+    
+    <url>
+        <loc>http://127.0.0.1:4000/webdevelopment/Bacteria</loc>
     </url>
     
     <url>

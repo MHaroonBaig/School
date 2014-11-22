@@ -9,7 +9,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://127.0.0.1:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://127.0.0.1:4000/" />
-<updated>2014-11-22T19:13:51+05:00</updated>
+<updated>2014-11-22T20:20:34+05:00</updated>
 <id>http://127.0.0.1:4000/</id>
 <author>
   <name>M. Haroon Baig</name>
@@ -65,6 +65,113 @@
 
   
   &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000/webdevelopment/why-jekyll&quot;&gt;Why Jekyll?&lt;/a&gt; was originally published by M. Haroon Baig at &lt;a href=&quot;http://127.0.0.1:4000&quot;&gt;PyBaig&lt;/a&gt; on July 23, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Virus]]></title>
+  <link rel="alternate" type="text/html" href="http://127.0.0.1:4000/webdevelopment/Virus"/>
+  <id>http://127.0.0.1:4000/webdevelopment/Virus</id>
+  <published>2014-07-23T00:00:00+05:00</published>
+  <updated>2014-07-23T00:00:00-00:00</updated>
+  
+  <author>
+    <name>M. Haroon Baig</name>
+    <uri>http://127.0.0.1:4000</uri>
+    <email>haroon.prog@gmail.com</email>
+  </author>
+  <category scheme="http://127.0.0.1:4000/tags/#jekyll" term="jekyll" />
+  <content type="html">
+  
+    &lt;p&gt;A virus is a microscopic organism that can replicate only inside the cells of a host organism. Most viruses are so tiny they are only observable with at least a conventional optical microscope. Viruses infect all types of organisms, including animals and plants, as well as bacteria and archaea. Approximately 5000 different viruses have been described in detail at the current time, although it is known that there are millions of distinct types. Viruses are found in virtually every ecosystem on Earth, and these minute life forms are thought to be the most abundant type of biological entity. The study of viruses is known as virology, a specialty within the field of microbiology. A virus is a small infectious agent that replicates only inside the living cells of other organisms. Viruses can infect all types of life forms, from animals and plants to bacteria and archaea.&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://www.bbc.co.uk/staticarchive/2effc5b6f748963d346ae11763b12f9ef34ba8af.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;lets-watch-a-video&quot;&gt;Lets watch a video&lt;/h2&gt;
+&lt;p&gt;The common concept of viruses focuses on their role as pathogen. Actually, there are vast numbers of viral entities that are beneficial to individual species as well as providing ecosystem services. For example, a class of viruses known as bacteriophages can kill a spectrum of harmful bacteria, providing protection&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+&lt;iframe width=&quot;600px&quot; height=&quot;370px&quot; src=&quot;http://playit.pk/embed/u_9VQsVgCss&quot; scrolling=&quot;NO&quot; frameborder=&quot;0&quot; style=&quot;overflow:hidden; border: 0px;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;replication&quot;&gt;Replication&lt;/h2&gt;
+&lt;p&gt;The virus, totally dependent upon its host for reproduction, manifests six essential stages in its life cycle: Attachment is the intermolecular binding between viral capsid proteins and receptors on the outer membrane of the host cell. The specificity of binding determines the host species and cell types that are receptive to viral infection. For example, HIV infects only human T cells, because the surface protein interacts with CD4 and chemokine receptors on the surface of the T cell itself. This mechanism is thought to have evolved to discriminate in favor of those viruses that only infect cells in which they are capable of replication. Attachment to the outer host cell membrane may induce the viral-envelope protein to undergo changes that result in the fusion of virus and host cell membranes.&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://web.stanford.edu/group/virus/retro/2004ahmed/images/HFV%20life%20cycle.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Viral entry is the next step, wherein a virus penetrates the host cell wall. In the case of plant cells, the cell outer membrane is composed of cellulose, such that cell wall trauma must be usually precedent; however, certain plant viruses (for example, tobacco mosaic virus) can pass from cell to cell through plasmodesmata, or pore structures. Also, bacteria have significantly strong cell walls. Some viruses have evolved mechanisms that inject their DNA or RNA into a bacterium, with the viral capsid remaining outside. Uncoating is the step in which viral enzymes degrade the virus capsid; sometimes host enzymes also play a role in this dissolution, that then exposes the viral genome to the interior of the host cell’s chemical factory.
+&lt;figure class=&quot;one&quot;&gt;
+&lt;img src=&quot;http://t2.gstatic.com/images?q=tbn:ANd9GcTCEb3z5LXNRzx2cYThvIQyPqzf4HXwfqKANa4wz0iAlSPzzbG4&quot; /&gt;
+&lt;img src=&quot;http://img.sparknotes.com/figures/2/285caff64361a769a0850014b87c228c/replication.gif&quot; /&gt;
+&lt;/figure&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Post-translational modification of viral proteins sometimes transpires. For example, in the case of HIV, such a step (often termed maturation) happens once the virus has escaped out of the host cell. Lysis is the final step, in which the host cell dies through the act of its membrane being burst by the viral escape. In some cases the new virus genome becomes dormant in the host, only to come to life at a later time, when the activated virus subsequently lyses.&lt;/p&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000/webdevelopment/Virus&quot;&gt;Virus&lt;/a&gt; was originally published by M. Haroon Baig at &lt;a href=&quot;http://127.0.0.1:4000&quot;&gt;PyBaig&lt;/a&gt; on July 23, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Velocity]]></title>
+  <link rel="alternate" type="text/html" href="http://127.0.0.1:4000/webdevelopment/Velocity"/>
+  <id>http://127.0.0.1:4000/webdevelopment/Velocity</id>
+  <published>2014-07-23T00:00:00+05:00</published>
+  <updated>2014-07-23T00:00:00-00:00</updated>
+  
+  <author>
+    <name>M. Haroon Baig</name>
+    <uri>http://127.0.0.1:4000</uri>
+    <email>haroon.prog@gmail.com</email>
+  </author>
+  <category scheme="http://127.0.0.1:4000/tags/#jekyll" term="jekyll" />
+  <content type="html">
+  
+    &lt;p&gt;Velocity is a vector quantity that refers to “the rate at which an object changes its position.” Imagine a person moving rapidly - one step forward and one step back - always returning to the original starting position. While this might result in a frenzy of activity, it would result in a zero velocity. Because the person always returns to the original position, the motion would never result in a change in position. Since velocity is defined as the rate at which the position changes, this motion results in zero velocity. If a person in motion wishes to maximize their velocity, then that person must make every effort to maximize the amount that they are displaced from their original position. Every step must go into moving that person further from where he or she started. For certain, the person should never change directions and begin to return to the starting position.&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://www.physicsclassroom.com/Class/1DKin/U1L1d6.gif&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;Velocity is a vector quantity. As such, velocity is direction aware. When evaluating the velocity of an object, one must keep track of direction. It would not be enough to say that an object has a velocity of 55 mi/hr. One must include direction information in order to fully describe the velocity of the object. For instance, you must describe an object’s velocity as being 55 mi/hr, east. This is one of the essential differences between speed and velocity. Speed is a scalar quantity and does not keep track of direction; velocity is a vector quantity and is direction aware.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;lets-watch-a-video&quot;&gt;Lets watch a video&lt;/h2&gt;
+&lt;p&gt;Play the video, it’s really nice and informative.&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+&lt;iframe width=&quot;600px&quot; height=&quot;370px&quot; src=&quot;http://playit.pk/embed/h6X3j3SV8fQ&quot; scrolling=&quot;NO&quot; frameborder=&quot;0&quot; style=&quot;overflow:hidden; border: 0px;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;determining-the-direction-of-the-velocity-vector&quot;&gt;Determining the Direction of the Velocity Vector&lt;/h2&gt;
+&lt;p&gt;The task of describing the direction of the velocity vector is easy. The direction of the velocity vector is simply the same as the direction that an object is moving. It would not matter whether the object is speeding up or slowing down. If an object is moving rightwards, then its velocity is described as being rightwards. If an object is moving downwards, then its velocity is described as being downwards. So an airplane moving towards the west with a speed of 300 mi/hr has a velocity of 300 mi/hr, west. Note that speed has no direction (it is a scalar) and the velocity at any instant is simply the speed value with a direction&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;http://t1.gstatic.com/images?q=tbn:ANd9GcSwSOGTvCNKMKSTSUAjPB5OzpvVVY8uooFHK5sF0Ubi-PL3wPiv&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;calculating-average-speed-and-average-velocity&quot;&gt;Calculating Average Speed and Average Velocity&lt;/h2&gt;
+&lt;p&gt;As an object moves, it often undergoes changes in speed. For example, during an average trip to school, there are many changes in speed. Rather than the speed-o-meter maintaining a steady reading, the needle constantly moves up and down to reflect the stopping and starting and the accelerating and decelerating. One instant, the car may be moving at 50 mi/hr and another instant, it might be stopped (i.e., 0 mi/hr). Yet during the trip to school the person might average 32 mi/hr. The average speed during an entire motion can be thought of as the average of all speedometer readings. If the speedometer readings could be collected at 1-second intervals (or 0.1-second intervals or … ) and then averaged together, the average speed could be determined.&lt;/p&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+&lt;img src=&quot;http://www.physicsclassroom.com/mmedia/kinema/trip.gif&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The average speed during the course of a motion is often computed using the following formula: In contrast, the average velocity is often computed using this formula Let’s begin implementing our understanding of these formulas with the following problem: Q: While on vacation, Lisa Carr traveled a total distance of 440 miles. Her trip took 8 hours. What was her average speed? To compute her average speed, we simply divide the distance of travel by the time of travel. That was easy! Lisa Carr averaged a speed of 55 miles per hour. She may not have been traveling at a constant speed of 55 mi/hr. She undoubtedly, was stopped at some instant in time (perhaps for a bathroom break or for lunch) and she probably was going 65 mi/hr at other instants in time. Yet, she averaged a speed of 55 miles per hour. The above formula represents a shortcut method of determining the average speed of an object. In conclusion, speed and velocity are kinematic quantities that have distinctly different definitions. Speed, being a scalar quantity, is the rate at which an object covers distance. The average speed is the distance (a scalar quantity) per time ratio. Speed is ignorant of direction. On the other hand, velocity is a vector quantity; it is direction-aware. Velocity is the rate at which the position changes. The average velocity is the displacement or position change (a vector quantity) per time ratio.&lt;/p&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+&lt;img src=&quot;http://www.physicsclassroom.com/mmedia/kinema/avd.gif&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000/webdevelopment/Velocity&quot;&gt;Velocity&lt;/a&gt; was originally published by M. Haroon Baig at &lt;a href=&quot;http://127.0.0.1:4000&quot;&gt;PyBaig&lt;/a&gt; on July 23, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -130,6 +237,126 @@
 
   
   &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000/webdevelopment/Speed&quot;&gt;Speed&lt;/a&gt; was originally published by M. Haroon Baig at &lt;a href=&quot;http://127.0.0.1:4000&quot;&gt;PyBaig&lt;/a&gt; on July 23, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Cells]]></title>
+  <link rel="alternate" type="text/html" href="http://127.0.0.1:4000/webdevelopment/Cells"/>
+  <id>http://127.0.0.1:4000/webdevelopment/Cells</id>
+  <published>2014-07-23T00:00:00+05:00</published>
+  <updated>2014-07-23T00:00:00-00:00</updated>
+  
+  <author>
+    <name>M. Haroon Baig</name>
+    <uri>http://127.0.0.1:4000</uri>
+    <email>haroon.prog@gmail.com</email>
+  </author>
+  <category scheme="http://127.0.0.1:4000/tags/#jekyll" term="jekyll" />
+  <content type="html">
+  
+    &lt;p&gt;The cell (from Latin cella, meaning “small room”) is the basic structural, functional, and biological unit of all known living organisms. Cells are the smallest unit of life that can replicate independently, and are often called the “building blocks of life”. The study of cells is called cell biology. Cells consist of a protoplasm enclosed within a membrane, which contains many biomolecules such as proteins and nucleic acids. Organisms can be classified as unicellular (consisting of a single cell; including most bacteria) or multicellular (including plants and animals). While the number of cells in plants and animals varies from species to species, humans contain about 100 trillion (1014) cells.Most plant and animal cells are visible only under the microscope, with dimensions between 1 and 100 micrometres.&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://education-portal.com/cimages/multimages/16/cell_prokaryote_eukaryote.png&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;lets-watch-a-video&quot;&gt;Lets watch a video&lt;/h2&gt;
+&lt;p&gt;The cell was discovered by Robert Hooke in 1665. The cell theory, first developed in 1839 by Matthias Jakob Schleiden and Theodor Schwann, states that all organisms are composed of one or more cells, that all cells come from preexisting cells, that vital functions of an organism occur within cells, and that all cells contain the hereditary information necessary for regulating cell functions and for transmitting information to the next generation of cells.[5] Cells emerged on Earth at least 3.5 billion years ago.&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+&lt;iframe width=&quot;600px&quot; height=&quot;370px&quot; src=&quot;http://playit.pk/embed/MfopLilIOeA&quot; scrolling=&quot;NO&quot; frameborder=&quot;0&quot; style=&quot;overflow:hidden; border: 0px;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;types-of-cells&quot;&gt;Types Of Cells&lt;/h2&gt;
+&lt;p&gt;There are two types of cells, eukaryotes, which contain a nucleus, and prokaryotes, which do not. Prokaryotic cells are usually single-celled organisms, while eukaryotic cells can be either single-celled or part of multicellular organisms.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Prokaryotic cells&lt;/strong&gt; - Prokaryotic cells were the first form of life on Earth, as they have signaling and self-sustaining processes. They are simpler and smaller than eukaryotic cells, and lack membrane-bound organelles such as the nucleus. Prokaryotes include two of the domains of life, bacteria and archaea. The DNA of a prokaryotic cell consists of a single chromosome that is in direct contact with the cytoplasm. The nuclear region in the cytoplasm is called the nucleoid. Most of the prokaryotes are smallest of all organisms. Most prokaryotes range from 0.5 to 2.0 Âµm in diameter.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Average_prokaryote_cell-_en.svg/300px-Average_prokaryote_cell-_en.svg.png&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Eukaryotic cells&lt;/strong&gt; - Plants, animals, fungi, slime moulds, protozoa, and algae are all eukaryotic.  These cells are about fifteen times wider than a typical prokaryote and can be as much as a thousand times greater in volume. The main distinguishing feature of eukaryotes as compared to prokaryotes is compartmentalization: the presence of membrane-bound compartments in which specific metabolic activities take place. Most important among these is a cell nucleus, a membrane-delineated compartment that houses the eukaryotic cell’s DNA. This nucleus gives the eukaryote its name, which means “true nucleus”.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Plant_cell_structure_svg.svg/275px-Plant_cell_structure_svg.svg.png&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Other differences include:&lt;br /&gt;
+&lt;strong&gt;1&lt;/strong&gt; - The plasma membrane resembles that of prokaryotes in function, with minor differences in the setup. Cell walls may or may not be present.&lt;br /&gt;
+&lt;strong&gt;2&lt;/strong&gt; - The eukaryotic DNA is organized in one or more linear molecules, called chromosomes, which are associated with histone proteins. All chromosomal DNA is stored in the cell nucleus, separated from the cytoplasm by a membrane. Some eukaryotic organelles such as mitochondria also contain some DNA.&lt;br /&gt;
+&lt;strong&gt;3&lt;/strong&gt; -Many eukaryotic cells are ciliated with primary cilia. Primary cilia play important roles in chemosensation, mechanosensation, and thermosensation. Cilia may thus be “viewed as a sensory cellular antennae that coordinates a large number of cellular signaling pathways, sometimes coupling the signaling to ciliary motility or alternatively to cell division and differentiation.”&lt;br /&gt;
+&lt;strong&gt;4&lt;/strong&gt; - Eukaryotes can move using motile cilia or flagella. Eukaryotic flagella are less complex than those of prokaryotes.&lt;br /&gt;&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Animal_cell_structure_en.svg/275px-Animal_cell_structure_en.svg.png&quot; /&gt;
+&lt;/figure&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000/webdevelopment/Cells&quot;&gt;Cells&lt;/a&gt; was originally published by M. Haroon Baig at &lt;a href=&quot;http://127.0.0.1:4000&quot;&gt;PyBaig&lt;/a&gt; on July 23, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Bacteria]]></title>
+  <link rel="alternate" type="text/html" href="http://127.0.0.1:4000/webdevelopment/Bacteria"/>
+  <id>http://127.0.0.1:4000/webdevelopment/Bacteria</id>
+  <published>2014-07-23T00:00:00+05:00</published>
+  <updated>2014-07-23T00:00:00-00:00</updated>
+  
+  <author>
+    <name>M. Haroon Baig</name>
+    <uri>http://127.0.0.1:4000</uri>
+    <email>haroon.prog@gmail.com</email>
+  </author>
+  <category scheme="http://127.0.0.1:4000/tags/#jekyll" term="jekyll" />
+  <content type="html">
+  
+    &lt;p&gt;Bacteria is a plural word. The singular for this word is “bacterium” (bacter = rod, staff). Bacteria are prokaryotes (Kingdom Monera), which means that they have no true nucleus. They do have one chromosome of double-stranded DNA in a ring. They reproduce by binary fission. Most bacteria lack or have very few internal membranes, which means that they don’t have some kinds of organelles (like mitochondria or chloroplasts). Most bacteria are benign (benign = good, friendly, kind) or beneficial, and only a few are “bad guys” or pathogens.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;http://t3.gstatic.com/images?q=tbn:ANd9GcSkUZhdNeg3ujvhVPYNNvwYq4ISEDywcZmH4a59BfAnzGz_DgIc5g&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;lets-watch-a-video&quot;&gt;Lets watch a video&lt;/h2&gt;
+&lt;p&gt;Kingdom Monera is a very diverse group. There are some bacteria relatives that can do photosynthesis â€” they donâ€™t have chloroplasts, but their chlorophyll and other needed chemicals are built into their cell membranes. These organisms are called Cyanobacteria (cyano = blue, dark blue) or bluegreen algae, although theyâ€™re not really algae (real algae are in Kingdom Protista). Like us, some kinds of bacteria need and do best in O2, while others are poisoned/killed by it.&lt;/p&gt;
+&lt;figure&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;iframe width=&quot;600px&quot; height=&quot;370px&quot; src=&quot;http://playit.pk/embed/ICWLF9lccNk&quot; scrolling=&quot;NO&quot; frameborder=&quot;0&quot; style=&quot;overflow:hidden; border: 0px;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;shapes&quot;&gt;Shapes&lt;/h2&gt;
+&lt;p&gt;Bacterial Shapes Most bacteria are one of three shapes (although there are a few other possibilities): coccus (sing.), cocci (pl.): are spherical (coccus = a berry), bacillus (sing.), bacilli (pl.): are rod-shaped (bacill(um) = a little stick), and spirillum (sing.), spirilla (pl.): are spiral (spiro = spiral, coil).&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://biology.clc.uc.edu/graphics/bio106/bacteria.jpg&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;While many bacteria live singly, others are found in aggregates or clusters. These aggregates are named based on the arrangement of the bacterial cells of which they are composed. Using cocci as an example: diplococcus: like Streptococcus pneumoniae (pneumonia) are in sets of two (diplo = double, two; pneumo = lungs), PHOTO streptococcus: are in chains (strepto = bent, twisted, pliable), and staphylococcus: are in clusters (staphylo = a bunch of grapes).&lt;/p&gt;
+
+&lt;h2 id=&quot;bacterial-cell-walls-and-gram-stains&quot;&gt;Bacterial Cell Walls And Gram Stains&lt;/h2&gt;
+&lt;p&gt;Most bacteria secrete a covering for themselves which we call a cell wall, However, bacterial cell walls are a totally different thing than the cell walls we talk about plants having. Bacterial cell walls do NOT contain cellulose like plant cell walls do. Bacterial cell walls are made mostly of a chemical called peptidoglycan (made of polypeptides bonded to modified sugars), but the amount and location of the peptidoglycan are different in the two possible types of cell walls, depending on the species of bacterium. Some antibiotics, like penicillin, inhibit the formation of the chemical cross linkages needed to make peptidoglycan. These antibiotics donâ€™t outright kill the bacteria, but just stop them from being able to make more cell wall so they can grow. Thatâ€™s why antibiotics must typically be taken for ten days until the bacteria, unable to grow, die of â€œold ageâ€. If a person stops taking the antibiotic sooner, any living bacteria could start making peptidoglycan, grow, and reproduce.&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://biology.clc.uc.edu/graphics/bio106/gram.jpg&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;However, because one of the two possible types of bacterial cell walls has more peptidoglycan than the other, antibiotics like penicillin are more effective against bacteria with that type of cell wall and less effective against bacteria with less peptidoglycan in their cell walls. Thus it is important, before beginning antibiotic treatment, to determine with which of the two types of bacteria one is dealing.&lt;/p&gt;
+
+&lt;h2 id=&quot;kochs-postulates&quot;&gt;Koch’s Postulates&lt;/h2&gt;
+&lt;p&gt;One famous person who worked with bacteria was Dr. Robert Koch, a German physician. He is famous for several discoveries related to bacteria: Bacteria growing on potato He noted bacteria growing on a spoiled potato and realized that each colony he saw grew from one bacterium that had landed on the potato. He realized he could remove a bit of one of the colonies and transfer it to a sterile medium to start a pure culture of that species of bacterium. This is called single colony isolation. Up until that time, researchers working with bacteria were trying to use gelatin to solidify nutrient media upon which to grow bacterial cultures, but there were a number of problems with this. Because gelatin is a protein, many bacteria are able to digest it and use it for food, resulting in liquification of the medium. Also, most of the bacteria that cause diseases grow best at body temperature (37Â° C), but as anyone who has tried taking Jell-O to a picnic knows, gelatin liquifies at that temperature. Based on a suggestion from a housewife friend, Koch developed the use of agar (a polysaccharide isolated from seaweed) to solidify nutrient media upon which to raise/grow bacteria. Because agar is a complex polysaccharide, most bacteria cannot digest it, and it remains solid at body temperature, enabling researchers to incubate bacteria, encouraging their growth&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://biology.clc.uc.edu/graphics/bio106/potato.gif&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;Interestingly, this has never been done for the bacterium that causes syphilis. While we acknowledge what it is and how to treat it, no one has been able to grow it in culture.&lt;/p&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000/webdevelopment/Bacteria&quot;&gt;Bacteria&lt;/a&gt; was originally published by M. Haroon Baig at &lt;a href=&quot;http://127.0.0.1:4000&quot;&gt;PyBaig&lt;/a&gt; on July 23, 2014.&lt;/p&gt;</content>
 </entry>
 
 

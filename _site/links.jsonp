@@ -31,8 +31,28 @@ callback([
   } ,
 
   {
+    "text": "Bacteria",
+    "href": "http://127.0.0.1:4000/webdevelopment/Bacteria"
+  } ,
+
+  {
+    "text": "Cells",
+    "href": "http://127.0.0.1:4000/webdevelopment/Cells"
+  } ,
+
+  {
     "text": "Speed",
     "href": "http://127.0.0.1:4000/webdevelopment/Speed"
+  } ,
+
+  {
+    "text": "Velocity",
+    "href": "http://127.0.0.1:4000/webdevelopment/Velocity"
+  } ,
+
+  {
+    "text": "Virus",
+    "href": "http://127.0.0.1:4000/webdevelopment/Virus"
   } ,
 
   {
