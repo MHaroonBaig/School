@@ -10,9 +10,12 @@
       -moz-background-size: cover;
       -o-background-size: cover;
       background-size: cover;
+      background-attachment: fixed;
+      height:100%
     }
 
-    
+    body {overflow: hidden; }
+
 			#img {
 				position: absolute;
 				top: 50%;
@@ -39,12 +42,13 @@
 				width: 5000px;
 
 			}
+      div.wrap {height:100%; overflow:hidden;}
 
 		</style>
 	</head>
 
 	<body>
-
+    <div class-"wrap">
 		<img id = "img" src="svg_file.svg" /><!-- Begin
 		MailChimp Signup Form -->
 
@@ -75,6 +79,6 @@
 		</div>
 
 		<!--End mc_embed_signup-->
-
+</div>
 	</body>
 </html>
