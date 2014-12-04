@@ -1,106 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://127.0.0.1:4000</loc>
+        <loc>http://mharoonbaig.github.io/School</loc>
     </url>
     
     
     <url>
-        <loc>http://127.0.0.1:4000/404.html</loc>
+        <loc>http://mharoonbaig.github.io/School/404.html</loc>
     </url>
     
     <url>
-        <loc>http://127.0.0.1:4000/about/index.html</loc>
+        <loc>http://mharoonbaig.github.io/School/about/index.html</loc>
     </url>
     
     <url>
-        <loc>http://127.0.0.1:4000/categories/index.html</loc>
+        <loc>http://mharoonbaig.github.io/School/categories/index.html</loc>
     </url>
     
     <url>
-        <loc>http://127.0.0.1:4000/featured/</loc>
+        <loc>http://mharoonbaig.github.io/School/featured/</loc>
     </url>
     
     <url>
-        <loc>http://127.0.0.1:4000/feed.xml</loc>
+        <loc>http://mharoonbaig.github.io/School/feed.xml</loc>
     </url>
     
     <url>
-        <loc>http://127.0.0.1:4000/index.html</loc>
+        <loc>http://mharoonbaig.github.io/School/index.html</loc>
     </url>
     
     <url>
-        <loc>http://127.0.0.1:4000/links.jsonp</loc>
+        <loc>http://mharoonbaig.github.io/School/links.jsonp</loc>
     </url>
     
     <url>
-        <loc>http://127.0.0.1:4000/search.json</loc>
+        <loc>http://mharoonbaig.github.io/School/search.json</loc>
     </url>
     
     <url>
-        <loc>http://127.0.0.1:4000/sitemap.xml</loc>
+        <loc>http://mharoonbaig.github.io/School/sitemap.xml</loc>
     </url>
     
     <url>
-        <loc>http://127.0.0.1:4000/tags/index.html</loc>
+        <loc>http://mharoonbaig.github.io/School/tags/index.html</loc>
     </url>
     
     <url>
-        <loc>http://127.0.0.1:4000/page2/index.html</loc>
+        <loc>http://mharoonbaig.github.io/School/page2/index.html</loc>
     </url>
     
     <url>
-        <loc>http://127.0.0.1:4000/page3/index.html</loc>
+        <loc>http://mharoonbaig.github.io/School/page3/index.html</loc>
     </url>
     
 
     
     <url>
-        <loc>http://127.0.0.1:4000/webdevelopment/why-jekyll</loc>
+        <loc>http://mharoonbaig.github.io/School/webdevelopment/why-jekyll</loc>
     </url>
     
     <url>
-        <loc>http://127.0.0.1:4000/webdevelopment/Virus</loc>
+        <loc>http://mharoonbaig.github.io/School/webdevelopment/Virus</loc>
     </url>
     
     <url>
-        <loc>http://127.0.0.1:4000/webdevelopment/Velocity</loc>
+        <loc>http://mharoonbaig.github.io/School/webdevelopment/Velocity</loc>
     </url>
     
     <url>
-        <loc>http://127.0.0.1:4000/webdevelopment/Speed</loc>
+        <loc>http://mharoonbaig.github.io/School/webdevelopment/Speed</loc>
     </url>
     
     <url>
-        <loc>http://127.0.0.1:4000/webdevelopment/Cells</loc>
+        <loc>http://mharoonbaig.github.io/School/webdevelopment/Cells</loc>
     </url>
     
     <url>
-        <loc>http://127.0.0.1:4000/webdevelopment/Bacteria</loc>
+        <loc>http://mharoonbaig.github.io/School/webdevelopment/Bacteria</loc>
     </url>
     
     <url>
-        <loc>http://127.0.0.1:4000/webdevelopment/Accelaration</loc>
+        <loc>http://mharoonbaig.github.io/School/webdevelopment/Accelaration</loc>
     </url>
     
     <url>
-        <loc>http://127.0.0.1:4000/personal/introducing-notepad</loc>
+        <loc>http://mharoonbaig.github.io/School/personal/introducing-notepad</loc>
     </url>
     
     <url>
-        <loc>http://127.0.0.1:4000/theme/documentation</loc>
+        <loc>http://mharoonbaig.github.io/School/theme/documentation</loc>
     </url>
     
     <url>
-        <loc>http://127.0.0.1:4000/theme/readability-feature-post</loc>
+        <loc>http://mharoonbaig.github.io/School/theme/readability-feature-post</loc>
     </url>
     
     <url>
-        <loc>http://127.0.0.1:4000/articles/readability-post</loc>
+        <loc>http://mharoonbaig.github.io/School/articles/readability-post</loc>
     </url>
     
     <url>
-        <loc>http://127.0.0.1:4000/articles/theme-elements</loc>
+        <loc>http://mharoonbaig.github.io/School/articles/theme-elements</loc>
     </url>
     
 </urlset>

@@ -3,7 +3,7 @@
 		{
 		  "title"      : "Why Jekyll?",
 		  "category"   : "webdevelopment",
-		  "url"        : "http://127.0.0.1:4000/webdevelopment/why-jekyll",
+		  "url"        : "http://mharoonbaig.github.io/School/webdevelopment/why-jekyll",
 		  "date"       : "2014-07-23 00:00:00 +0500",
 		  "shortdate"  : "July 23, 2014"
 		} ,
@@ -11,7 +11,7 @@
 		{
 		  "title"      : "Virus",
 		  "category"   : "webdevelopment",
-		  "url"        : "http://127.0.0.1:4000/webdevelopment/Virus",
+		  "url"        : "http://mharoonbaig.github.io/School/webdevelopment/Virus",
 		  "date"       : "2014-07-23 00:00:00 +0500",
 		  "shortdate"  : "July 23, 2014"
 		} ,
@@ -19,7 +19,7 @@
 		{
 		  "title"      : "Velocity",
 		  "category"   : "webdevelopment",
-		  "url"        : "http://127.0.0.1:4000/webdevelopment/Velocity",
+		  "url"        : "http://mharoonbaig.github.io/School/webdevelopment/Velocity",
 		  "date"       : "2014-07-23 00:00:00 +0500",
 		  "shortdate"  : "July 23, 2014"
 		} ,
@@ -27,7 +27,7 @@
 		{
 		  "title"      : "Speed",
 		  "category"   : "webdevelopment",
-		  "url"        : "http://127.0.0.1:4000/webdevelopment/Speed",
+		  "url"        : "http://mharoonbaig.github.io/School/webdevelopment/Speed",
 		  "date"       : "2014-07-23 00:00:00 +0500",
 		  "shortdate"  : "July 23, 2014"
 		} ,
@@ -35,7 +35,7 @@
 		{
 		  "title"      : "Cells",
 		  "category"   : "webdevelopment",
-		  "url"        : "http://127.0.0.1:4000/webdevelopment/Cells",
+		  "url"        : "http://mharoonbaig.github.io/School/webdevelopment/Cells",
 		  "date"       : "2014-07-23 00:00:00 +0500",
 		  "shortdate"  : "July 23, 2014"
 		} ,
@@ -43,7 +43,7 @@
 		{
 		  "title"      : "Bacteria",
 		  "category"   : "webdevelopment",
-		  "url"        : "http://127.0.0.1:4000/webdevelopment/Bacteria",
+		  "url"        : "http://mharoonbaig.github.io/School/webdevelopment/Bacteria",
 		  "date"       : "2014-07-23 00:00:00 +0500",
 		  "shortdate"  : "July 23, 2014"
 		} ,
@@ -51,7 +51,7 @@
 		{
 		  "title"      : "Accelaration",
 		  "category"   : "webdevelopment",
-		  "url"        : "http://127.0.0.1:4000/webdevelopment/Accelaration",
+		  "url"        : "http://mharoonbaig.github.io/School/webdevelopment/Accelaration",
 		  "date"       : "2014-07-23 00:00:00 +0500",
 		  "shortdate"  : "July 23, 2014"
 		} ,
@@ -59,7 +59,7 @@
 		{
 		  "title"      : "Introducing Notepad",
 		  "category"   : "personal",
-		  "url"        : "http://127.0.0.1:4000/personal/introducing-notepad",
+		  "url"        : "http://mharoonbaig.github.io/School/personal/introducing-notepad",
 		  "date"       : "2014-07-19 00:00:00 +0500",
 		  "shortdate"  : "July 19, 2014"
 		} ,
@@ -67,7 +67,7 @@
 		{
 		  "title"      : "Documentation",
 		  "category"   : "theme",
-		  "url"        : "http://127.0.0.1:4000/theme/documentation",
+		  "url"        : "http://mharoonbaig.github.io/School/theme/documentation",
 		  "date"       : "2014-06-19 00:00:00 +0500",
 		  "shortdate"  : "June 19, 2014"
 		} ,
@@ -75,7 +75,7 @@
 		{
 		  "title"      : "Post with Cover Image and Text",
 		  "category"   : "theme",
-		  "url"        : "http://127.0.0.1:4000/theme/readability-feature-post",
+		  "url"        : "http://mharoonbaig.github.io/School/theme/readability-feature-post",
 		  "date"       : "2013-05-23 00:00:00 +0500",
 		  "shortdate"  : "May 23, 2013"
 		} ,
@@ -83,7 +83,7 @@
 		{
 		  "title"      : "Testing Readability with a Bunch of Text",
 		  "category"   : "articles",
-		  "url"        : "http://127.0.0.1:4000/articles/readability-post",
+		  "url"        : "http://mharoonbaig.github.io/School/articles/readability-post",
 		  "date"       : "2012-05-22 00:00:00 +0500",
 		  "shortdate"  : "May 22, 2012"
 		} ,
@@ -91,7 +91,7 @@
 		{
 		  "title"      : "Theme Elements",
 		  "category"   : "articles",
-		  "url"        : "http://127.0.0.1:4000/articles/theme-elements",
+		  "url"        : "http://mharoonbaig.github.io/School/articles/theme-elements",
 		  "date"       : "2011-03-10 00:00:00 +0500",
 		  "shortdate"  : "March 10, 2011"
 		} 
