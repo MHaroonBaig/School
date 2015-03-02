@@ -2,62 +2,62 @@ callback([
 
   {
     "text": "Theme Elements",
-    "href": "http://mharoonbaig.github.io/School/articles/theme-elements"
+    "href": "http://127.0.0.1:4000/articles/theme-elements"
   } ,
 
   {
     "text": "Testing Readability with a Bunch of Text",
-    "href": "http://mharoonbaig.github.io/School/articles/readability-post"
+    "href": "http://127.0.0.1:4000/articles/readability-post"
   } ,
 
   {
     "text": "Post with Cover Image and Text",
-    "href": "http://mharoonbaig.github.io/School/theme/readability-feature-post"
+    "href": "http://127.0.0.1:4000/theme/readability-feature-post"
   } ,
 
   {
     "text": "Documentation",
-    "href": "http://mharoonbaig.github.io/School/theme/documentation"
+    "href": "http://127.0.0.1:4000/theme/documentation"
   } ,
 
   {
     "text": "Introducing Notepad",
-    "href": "http://mharoonbaig.github.io/School/personal/introducing-notepad"
+    "href": "http://127.0.0.1:4000/personal/introducing-notepad"
   } ,
 
   {
     "text": "Accelaration",
-    "href": "http://mharoonbaig.github.io/School/webdevelopment/Accelaration"
+    "href": "http://127.0.0.1:4000/webdevelopment/Accelaration"
   } ,
 
   {
     "text": "Bacteria",
-    "href": "http://mharoonbaig.github.io/School/webdevelopment/Bacteria"
+    "href": "http://127.0.0.1:4000/webdevelopment/Bacteria"
   } ,
 
   {
     "text": "Cells",
-    "href": "http://mharoonbaig.github.io/School/webdevelopment/Cells"
+    "href": "http://127.0.0.1:4000/webdevelopment/Cells"
   } ,
 
   {
     "text": "Speed",
-    "href": "http://mharoonbaig.github.io/School/webdevelopment/Speed"
+    "href": "http://127.0.0.1:4000/webdevelopment/Speed"
   } ,
 
   {
     "text": "Velocity",
-    "href": "http://mharoonbaig.github.io/School/webdevelopment/Velocity"
+    "href": "http://127.0.0.1:4000/webdevelopment/Velocity"
   } ,
 
   {
     "text": "Virus",
-    "href": "http://mharoonbaig.github.io/School/webdevelopment/Virus"
+    "href": "http://127.0.0.1:4000/webdevelopment/Virus"
   } ,
 
   {
     "text": "Why Jekyll?",
-    "href": "http://mharoonbaig.github.io/School/webdevelopment/why-jekyll"
+    "href": "http://127.0.0.1:4000/webdevelopment/why-jekyll"
   } 
 
 ])
